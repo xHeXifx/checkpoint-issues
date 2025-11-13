@@ -13,7 +13,7 @@ body:
     id: related-problem
     attributes:
       label: Is your feature request related to a problem?
-      description: A clear and concise description of what the problem is. Example: “I'm always frustrated when…”
+      description: "A clear and concise description of what the problem is. Example: I'm always frustrated when..."
       placeholder: "Example: I'm always frustrated when..."
     validations:
       required: true
@@ -22,7 +22,7 @@ body:
     id: desired-solution
     attributes:
       label: Describe the solution you'd like
-      description: What do you want to happen? Describe the ideal solution.
+      description: "What do you want to happen? Describe the ideal solution."
       placeholder: "I want the app to..."
     validations:
       required: true
@@ -31,11 +31,11 @@ body:
     id: alternatives
     attributes:
       label: Describe alternatives you've considered
-      description: List other approaches or features you have thought about.
+      description: "List other approaches or features you have thought about."
       placeholder: "Alternative idea #1..."
-  
+
   - type: textarea
     id: additional-context
     attributes:
       label: Additional context
-      description: Add any extra details, notes, or screenshots.
+      description: "Add any extra details, notes, or screenshots."
