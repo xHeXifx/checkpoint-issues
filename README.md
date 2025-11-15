@@ -29,7 +29,7 @@ Submit a feature request explaining:
 
 ## 🔗 Main Project
 
-Find checkpoint at [https://checkpoint-race.app](https://checkpoint-race.app)
+Find checkpoint at [https://checkpoint-race.app](https://checkpoint-race.app)  
 [Development Changelog](https://checkpoint.featurebase.app/dashboard/changelog)
 
 ---
